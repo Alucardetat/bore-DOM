@@ -23,5 +23,3 @@ image[0].style.height = '250px';
 let image2 = document.querySelector('.imgDiv');
 image2.innerHTML += '<img src="https://media1.popsugar-assets.com/files/thumbor/nMoFnxkm3m2ims-92q_7fw4S9DM=/0x600:2401x3001/fit-in/1584x2376/filters:format_auto():upscale()/2022/01/04/686/n/1922507/6023a31161d467cac500f9.25034761_.jpg"/>';
 image2.style.height = '280px';
-
-
